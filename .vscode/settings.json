@@ -1,13 +1,6 @@
 {
     "workbench.iconTheme": "vscode-great-icons",
     "git.openRepositoryInParentFolders": "always",
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#b28de2",
-        "activityBar.activeBackground": "#b221ff",
-        "activityBar.foreground": "#fff",
-        "titleBar.activeBackground": "#532888",
-        "titleBar.activeForeground": "#FBF9FD"
-    },
     "editor.codeLens": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "files.autoSave": "afterDelay",
