@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+    background-image: url("./bilder/zoltan-tasi-yanhwFwyoaU-unsplash.jpg");
+}
+h1 {
+    color: rgb(132, 26, 230);
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    color: chocolate;
+    font-size: 30px;
+}
+p {
+    color: darkmagenta;
+    font-size: 18px;
+}
