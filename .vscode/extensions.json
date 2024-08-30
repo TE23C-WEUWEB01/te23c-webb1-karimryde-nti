@@ -4,6 +4,7 @@
         "eliostruyf.vscode-hide-comments",
         "alefragnani.project-manager",
         "chrisdias.vscode-opennewinstance",
-        "ritwickdey.LiveServer"
+        "ritwickdey.LiveServer",
+        "christian-kohler.path-intellisense"
     ]
 }
