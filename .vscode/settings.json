@@ -12,5 +12,10 @@
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.startupEditor": "none",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true
 }
