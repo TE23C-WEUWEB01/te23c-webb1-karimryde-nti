@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Layoutens utseende */
+body {
+    background-image: url("./bilder/liz99-7EeeSN-eGsI-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+div {
+    width: 600px;
+    background-color: #dad75c;
+    margin: auto;
+    margin-top: 50px;
+    border: 10px solid brown;
+    border-radius: 20px;
+    padding: 50px;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    color: brown;
+}
+
+/* Innehållets utseende */
+h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+    text-shadow: 1px 1px 1px #fff;
+}
+h2 {
+    margin-bottom: 15px;
+}
+img {
+    margin-bottom: 15px;
+    width: 150px;
+}
+p {
+    margin-bottom: 10px;
+}
+ul {
+    margin-bottom: 15px;
+    margin-left: 20px;
+    list-style-type: circle;
+}
+li {
+
+}
