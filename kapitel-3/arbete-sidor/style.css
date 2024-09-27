@@ -9,6 +9,15 @@ body.sida2 {
 body.sida3{
     background-image: url("./bilder/lemon-background-6712130_640.png");
 }
+body.sida4 {
+    background-image: url("./bilder/pandas-6954571_640.jpg");
+}
+body.sida5 {
+    background-image: url("./bilder/pattern-8348550_640.png");
+}
+body.sida6 {
+    background-image: url("./bilder/seamless-pattern-6666875_640.jpg");
+}
 div {
     background-color: #fff;
     width: 400px;
