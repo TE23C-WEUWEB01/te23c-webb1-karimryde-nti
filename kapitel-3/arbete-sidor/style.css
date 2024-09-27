@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body.sida1 {
+    background-image: url("./bilder/avocado-6094271_640.jpg");
+}
+body.sida2 {
+    background-image: url("./bilder/leaves-5825458_640.jpg");
+}
+body.sida3{
+    background-image: url("./bilder/lemon-background-6712130_640.png");
+}
+div {
+    background-color: #fff;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border: 5px dashed #555;
+    padding: 20px;
+}
+h1 {
+    font-family: "Roboto Slab", serif;
+}
+p {
+    font-family: "Roboto", system-ui;
+    font-size: 20px;
+}
+a {
+    font-size: 40px;
+    text-decoration: none;
+    color: darkred;
+}
