@@ -12,24 +12,35 @@ body, h1, h2, h3, h4, h5, h6, p, ul {
 
 /* Sidans layout */
 body {
-
+    background-color: #cdb4db;
+    background-image: url(./bilder/olivier-piquer-VHX6XBfDlRU-unsplash.jpg);
+    color: #fff;
 }
 div.sidan {
-
+    background-color: #C37A01;
+    width: 700px;
+    padding: 50px;
+    margin: auto;
+    box-shadow: 0 0 50px #fff;
 }
 div.inlägg {
-
+    background-color: #DA9A02;
+    padding: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
 }
 
 /* Innehållets utseende */
 h1 {
-
+ font-size: 70px;
 }
 h2 {
 
 }
 img {
-
+    width: 100%;
+    border: 20px solid #C37A01;
+    border-radius: 30px;
 }
 p.datum {
 
