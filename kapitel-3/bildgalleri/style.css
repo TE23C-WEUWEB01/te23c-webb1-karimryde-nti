@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Handjet:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Sidans bakgrund */
+body {
+    background-image: url(./bilder/GSFC_20171208_Archive_e001982~orig.jpg);
+}
+
+/* Kontainern utseende */
+.kontainer {
+    background-color: #c3c3c390;
+    width: 800px;
+    padding: 50px;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;
+}
+h1 {
+    font-family: "Audiowide", serif;
+    font-size: 120px;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* Boxarnas utseende */
+.bild {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+img {
+    width: 100%;
+}
+h3 {}
+p {}
+a {}
