@@ -25,14 +25,14 @@ body {
 }
 
 /* Menyns utseende */
-ul {
+.kontainer ul {
     display: flex;
     justify-content: space-between;
 }
-li {
+.kontainer ul li {
     list-style-type: none;
 }
-a {
+.kontainer ul a {
     text-decoration: none;
     color: #CBDFBD;
     background-color: #F19C79;
@@ -43,17 +43,20 @@ a {
     text-align: center;
     box-shadow: 3px 3px 0 #999;
 }
-a:hover {
+.kontainer ul .aktiv {
+    background-color: #A44A3F;
+}
+.kontainer ul a:hover {
     background-color: #A44A3F;
 }
 
 /* Innehållet */
-h1 {
+.kontainer h1 {
     font-family: "Shrikhand", serif;
     color: #A44A3F;
     font-size: 80px;
 }
-figure {
+.kontainer figure {
     background-color: #fff;
     padding: 30px;
     width: 60%;
@@ -61,15 +64,19 @@ figure {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-img {
+.kontainer figure img {
     width: 100%;
 }
-figcaption {
+.kontainer figure figcaption {
 
 }
-p {
+.kontainer p {
     margin-bottom: 15px;
 }
-.tack {
-
+.kontainer .tack {
+    font-style: italic;
+}
+.kontainer .tack a {
+    text-decoration: none;
+    color: #A44A3F;
 }
