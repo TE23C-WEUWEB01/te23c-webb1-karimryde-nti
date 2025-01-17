@@ -74,6 +74,7 @@ body {
     text-align: center;
     border-radius: 10px;
     height: 150px;
+    transition-duration: 500ms;
     cursor: pointer;
 }
 .innehall .kolumner-3 .burgare:hover {
